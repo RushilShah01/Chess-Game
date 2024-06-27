@@ -4,8 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "npx app.js",
-    "build": "npm run build"
+    "start": "npx app.js"
   },
   "keywords": [],
   "author": "",
