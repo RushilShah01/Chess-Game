@@ -5,9 +5,9 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "build":"npm"
+    "build":"build"
   },
-  "keywords": [],
+  "keywords": [], 
   "author": "",
   "license": "ISC",
   "dependencies": {
